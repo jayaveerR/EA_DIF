@@ -1,0 +1,5 @@
+{
+  "name": "EA-DIF - Student Behavior Analysis",
+  "description": "Explainable Adaptive Deep Isolation Forest for monitoring student behavior and academic outcomes.",
+  "requestFramePermissions": []
+}
